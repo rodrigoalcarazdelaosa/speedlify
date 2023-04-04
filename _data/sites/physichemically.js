@@ -3,7 +3,7 @@ module.exports = {
 	description: "PhysiChemically",
 	options: {
 		runs: 3,
-		frequency: 1440, // (in minutes)
+		frequency: 60, // (in minutes)
 	},
 	urls: [
 		"https://physichemically.com"
